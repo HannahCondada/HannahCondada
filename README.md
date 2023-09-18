@@ -7,7 +7,7 @@
 
 <h2 align="center">🌱 CURRENTLY LEARNING: Software Engineering</h2>
 
-<h2 align="center">📫 HOW TO REACH ME: condadahannal@gmail.com</h2>
+<h2 align="center">📫 HOW TO REACH ME: condadahannahl@gmail.com</h2>
 
 <h2 align="center">📄 KNOW ABOUT MY EXPERIENCES: <br>https://sites.google.com/view/hannahcondada/resume?authuser=0</h2>
 
