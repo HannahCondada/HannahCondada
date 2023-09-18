@@ -9,7 +9,7 @@
 
 <h2 align="center">📫 How to reach me: condadahannal@gmail.com</h2>
 
-<h2 align="center">📄 Know about my experiences:(https://sites.google.com/view/hannahcondada/resume?authuser=0)</h2>
+<h2 align="center">📄 Know about my experiences: (https://sites.google.com/view/hannahcondada/resume?authuser=0)</h2>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
