@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hannah L. Condada</h1>
 <h3 align="center">A Computer Science Student</h3>
 
-<h2 align="center">- 🏫 Education <b>3rd Year College</b></h2>
+<h2 align="center">🏫 Education: 3rd Year College</h2>
 
-<h2 align="center">- 👨‍💻 For additional information here's my google website [https://sites.google.com/view/hannahcondada/home](https://sites.google.com/view/hannahcondada/home)</h2>
+<h2 align="center">👨‍💻 For additional information here's my google website: [https://sites.google.com/view/hannahcondada/home](https://sites.google.com/view/hannahcondada/home)</h2>
 
-<h2 align="center">- 🌱 I’m currently learning **Software Engineering**</h2>
+<h2 align="center">🌱 I’m currently learning: Software Engineering</h2>
 
-<h2 align="center">- 📫 How to reach me **condadahannal@gmail.com**</h2>
+<h2 align="center">📫 How to reach me: condadahannal@gmail.com</h2>
 
-<h2 align="center">- 📄 Know about my experiences [https://sites.google.com/view/hannahcondada/resume?authuser=0](https://sites.google.com/view/hannahcondada/resume?authuser=0)</h2>
+<h2 align="center">📄 Know about my experiences: [https://sites.google.com/view/hannahcondada/resume?authuser=0](https://sites.google.com/view/hannahcondada/resume?authuser=0)</h2>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
