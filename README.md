@@ -3,13 +3,13 @@
 
 <h3 align="center">🏫 EDUCATION 🏫 <br>New Era University<br>2019 - Current<br>3rd Year College</h3>
 
-<h3 align="center">👨‍💻 ADDITIONAL INFORMATION: <br>https://sites.google.com/view/hannahcondada/home</3>
+<h3 align="center">👨‍💻 ADDITIONAL INFORMATION 👨‍💻 <br>https://sites.google.com/view/hannahcondada/home</3>
 
-<h3 align="center">🌱 CURRENTLY LEARNING: Software Engineering</h3>
+<h3 align="center">🌱 CURRENTLY LEARNING 🌱 <br>Software Engineering</h3>
 
-<h3 align="center">📫 HOW TO REACH ME: condadahannahl@gmail.com</h3>
+<h3 align="center">📫 HOW TO REACH ME 📫 <br>condadahannahl@gmail.com</h3>
 
-<h3 align="center">📄 KNOW ABOUT MY EXPERIENCES: <br>https://sites.google.com/view/hannahcondada/resume?authuser=0</h3>
+<h3 align="center">📄 KNOW ABOUT MY EXPERIENCES 📄 <br>https://sites.google.com/view/hannahcondada/resume?authuser=0</h3>
 
 <h3 align="center">CONNECT WITH ME:</h3>
 <p align="center">
