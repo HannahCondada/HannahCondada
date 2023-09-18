@@ -3,7 +3,7 @@
 
 <h3 align="center">🏫 EDUCATION 🏫 <br>New Era University<br>2019 - Current<br>3rd Year College</h3>
 
-<h3 align="center">👨‍💻 ADDITIONAL INFORMATION 👨‍💻 <br>----------------------------------------------<br>https://sites.google.com/view/hannahcondada/home</3>
+<h3 align="center">👨‍💻 ADDITIONAL INFORMATION 👨‍💻 <br>--------------------------------------------------------------------------------------------<br>https://sites.google.com/view/hannahcondada/home</3>
 
 <h3 align="center">🌱 CURRENTLY LEARNING 🌱 <br>Software Engineering</h3>
 
