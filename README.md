@@ -1,15 +1,15 @@
 <h1 align="center">Hannah L. Condada</h1>
 <h2 align="center">Computer Science Student</h2>
 
-<h3 align="center"><br>____________________________________________________________________________________________<br>🏫 EDUCATION 🏫 <br>New Era University<br>2019 - Current<br>3rd Year College</h3>
+<h3 align="center"><br>____________________________________________________________________________________________<br><br>🏫 EDUCATION 🏫 <br>New Era University<br>2019 - Current<br>3rd Year College</h3>
 
-<h3 align="center"><br>--------------------------------------------------------------------------------------------<br>👨‍💻 ADDITIONAL INFORMATION 👨‍💻 <br>https://sites.google.com/view/hannahcondada/home</3>
+<h3 align="center"><br>____________________________________________________________________________________________<br><br>👨‍💻 ADDITIONAL INFORMATION 👨‍💻 <br>https://sites.google.com/view/hannahcondada/home</3>
 
-<h3 align="center"><br>--------------------------------------------------------------------------------------------<br>🌱 CURRENTLY LEARNING 🌱 <br>Software Engineering</h3>
+<h3 align="center"><br>____________________________________________________________________________________________<br><br>🌱 CURRENTLY LEARNING 🌱 <br>Software Engineering</h3>
 
-<h3 align="center"><br>--------------------------------------------------------------------------------------------<br>📫 HOW TO REACH ME 📫 <br>condadahannahl@gmail.com</h3>
+<h3 align="center"><br>____________________________________________________________________________________________<br><br>📫 HOW TO REACH ME 📫 <br>condadahannahl@gmail.com</h3>
 
-<h3 align="center"><br>--------------------------------------------------------------------------------------------<br>📄 KNOW ABOUT MY EXPERIENCES 📄 <br>https://sites.google.com/view/hannahcondada/resume?authuser=0</h3>
+<h3 align="center"><br>____________________________________________________________________________________________<br><br>📄 KNOW ABOUT MY EXPERIENCES 📄 <br>https://sites.google.com/view/hannahcondada/resume?authuser=0</h3>
 
 <h3 align="center">CONNECT WITH ME:</h3>
 <p align="center">
