@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hannah L. Condada</h1>
-<h1 align="center">A Computer Science Student</h1>
+<h1 align="center">Hannah L. Condada</h1>
+<h2 align="center">Computer Science Student</h2>
 
 <h2 align="center">🏫 Education: 3rd Year College</h2>
 
