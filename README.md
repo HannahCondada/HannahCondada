@@ -1,6 +1,6 @@
-<h1 align="center">Hannah L. Condada<br></h1>
+<h1 align="center"><br>Hannah L. Condada</h1>
 
-<h2 align="center">Computer Science Student<br></h2>
+<h2 align="center"><br>Computer Science Student</h2>
 
 <h3 align="center">____________________________________________________________________________________________<br><br>🏫 EDUCATION 🏫 <br>New Era University<br>2019 - Current<br>3rd Year College</h3>
 
