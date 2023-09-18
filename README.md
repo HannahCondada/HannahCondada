@@ -1,7 +1,7 @@
 <h1 align="center">Hannah L. Condada</h1>
 <h2 align="center">Computer Science Student</h2>
 
-<h2 align="center">🏫 EDUCATION: 3rd Year College</h2>
+<h3 align="center">🏫 EDUCATION: <br>New Era University<br>2019 - Current<br>3rd Year College</h3>
 
 <h2 align="center">👨‍💻 ADDITIONAL INFORMATION: <br>https://sites.google.com/view/hannahcondada/home</h2>
 
