@@ -3,13 +3,13 @@
 
 <h2 align="center">🏫 EDUCATION: 3rd Year College</h2>
 
-<h2 align="center">👨‍💻 ADDITIONAL INFORMATION: <br>(https://sites.google.com/view/hannahcondada/home)</h2>
+<h2 align="center">👨‍💻 ADDITIONAL INFORMATION: <br>https://sites.google.com/view/hannahcondada/home</h2>
 
 <h2 align="center">🌱 CURRENTLY LEARNING: Software Engineering</h2>
 
 <h2 align="center">📫 HOW TO REACH ME: condadahannal@gmail.com</h2>
 
-<h2 align="center">📄 KNOW ABOUT MY EXPERIENCES: <br>(https://sites.google.com/view/hannahcondada/resume?authuser=0)</h2>
+<h2 align="center">📄 KNOW ABOUT MY EXPERIENCES: <br>https://sites.google.com/view/hannahcondada/resume?authuser=0</h2>
 
 <h3 align="center">CONNECT WITH ME:</h3>
 <p align="center">
