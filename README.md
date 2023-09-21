@@ -8,7 +8,7 @@
 
 <h3 align="center">____________________________________________________________________________________________<br><br>🌱 CURRENTLY LEARNING 🌱 <br>Software Engineering</h3>
 
-<h3 align="center">____________________________________________________________________________________________<br><br>📫 HOW TO REACH ME 📫 <br>condadahannahl@gmail.com</h3>
+<h3 align="center">____________________________________________________________________________________________<br><br>📫 HOW TO REACH ME 📫 <br></h3>condadahannahl@gmail.com
 
 <h3 align="center">____________________________________________________________________________________________<br><br>📄 KNOW ABOUT MY EXPERIENCES 📄 <br>https://sites.google.com/view/hannahcondada/resume?authuser=0</h3>
 
