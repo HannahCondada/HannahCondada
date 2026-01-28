@@ -12,10 +12,9 @@
 
 ## 👩🏽‍💻 About Me
 
-Hi! I’m **Hannah**, a driven **Computer Science student at New Era University**, currently in my fourth year.  
-I enjoy building practical solutions through **software development, data visualization, and system design**.
+Hi! I’m Hannah, a Computer Science graduate from New Era University and a full-stack enthusiast. I love designing systems and bringing those designs to life through interactive and user-friendly experiences.
 
-I’ve worked with various programming languages, tools, and frameworks throughout my academic journey—always eager to learn, improve, and apply my skills to real-world projects.
+I’ve explored a wide range of programming languages, tools, and frameworks, and I’m always excited to keep learning, improving, and building meaningful projects.
 
 📌 Curious about what I’ve built? Explore my repositories below or reach out if you’d like to collaborate!
 
