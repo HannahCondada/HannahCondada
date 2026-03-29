@@ -3,8 +3,7 @@
 # ✨ Hannah L. Condada ✨  
 📍 Computer Science | Software & Data Enthusiast  
 
-📧 **Email:** condadahannahl@gmail.com  
-📱 **Contact:** +63 966 406 9386  
+📧 **Email:** condadahannahl@gmail.com
 
 </div>
 
