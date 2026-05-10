@@ -11,8 +11,11 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ## 👩🏽‍💻 About Me
+
+</div>
 
 **Application Developer with a passion for building intuitive and aesthetically refined digital experiences.**
 Computer Science graduate experienced in developing web applications and thoughtful user interfaces. I enjoy combining technical problem-solving with design sensibility to create products that are both functional and engaging.
@@ -21,9 +24,12 @@ Computer Science graduate experienced in developing web applications and thought
 
 Check out my [LIVE PORTFOLIO](https://hannahcondada.github.io/hannah-condada-portfolio/#home)! I'd be happy to discuss ideas :))
 
----
 
+<div align="center">
+  
 ## 🎓 Education
+
+</div>
 
 **Bachelor of Science in Computer Science**  
 *New Era University*  
@@ -37,9 +43,11 @@ Check out my [LIVE PORTFOLIO](https://hannahcondada.github.io/hannah-condada-por
 *FEU Roosevelt Rodriguez*  
 📅 2018  
 
----
+<div align="center">
 
 ## 📜 Certifications
+
+</div>
 
 - **Artificial Intelligence Fundamentals** — June 28, 2024  
 - **Introduction to Data Science** — June 28, 2024  
@@ -49,9 +57,11 @@ Check out my [LIVE PORTFOLIO](https://hannahcondada.github.io/hannah-condada-por
 - **Oracle Cloud Infrastructure Foundations** — November 22, 2022  
 - **SQL and Relational Databases 101** — November 03, 2022  
 
----
+<div align="center">
 
 ## 📊 Tech & Project Highlights
+
+</div>
 
 ### 📈 Power BI Dashboards
 - ⚪ [Snack Food Sales Report](https://app.powerbi.com/view?r=eyJrIjoiNTI5MzI4NWUtNWJhNi00Mjc5LTlhOTYtZDFiZWNlODQwMGE3IiwidCI6IjMyYmFmZWQ1LTIyNjgtNDAzNS05YzA3LTI3OWFkOTAwYTRiYSIsImMiOjEwfQ%3D%3D)
@@ -101,15 +111,22 @@ Check out my [LIVE PORTFOLIO](https://hannahcondada.github.io/hannah-condada-por
 ### 📋 Productivity
 ![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white)
 
----
+<div align="center">
 
 ## 📈 GitHub Stats
+
+</div>
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HannahCondada&theme=synthwave)
 
 ---
 
+<div align="center">
+  
 ## 🏆 GitHub Trophies
+
+</div>
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=HannahCondada&theme=radical)
 
 ---
