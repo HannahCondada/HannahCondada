@@ -105,9 +105,7 @@ Check out my [LIVE PORTFOLIO](https://hannahcondada.github.io/hannah-condada-por
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=HannahCondada&theme=synthwave)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HannahCondada&theme=synthwave)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HannahCondada&layout=compact&theme=synthwave)
 
 ---
 
