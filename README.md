@@ -4,8 +4,9 @@
 📍 Computer Science | Software & Data Enthusiast  | Application Developer
 
 📧 **Email:** condadahannahl@gmail.com
+🔗 **LinkedIn:** [Hannah Condada](https://www.linkedin.com/in/hannah-condada-906125258/)
 
-[LIVE PORTFOLIO](https://hannahcondada.github.io/hannah-condada-portfolio/#home).
+
 
 </div>
 
@@ -13,11 +14,12 @@
 
 ## 👩🏽‍💻 About Me
 
-Hi! I’m Hannah, a Computer Science graduate from New Era University and a full-stack enthusiast. I love designing systems and bringing those designs to life through interactive and user-friendly experiences.
-
-I’ve explored a wide range of programming languages, tools, and frameworks, and I’m always excited to keep learning, improving, and building meaningful projects.
+**Application Developer with a passion for building intuitive and aesthetically refined digital experiences.**
+Computer Science graduate experienced in developing web applications and thoughtful user interfaces. I enjoy combining technical problem-solving with design sensibility to create products that are both functional and engaging.
 
 📌 Curious about what I’ve built? Explore my repositories below or reach out if you’d like to collaborate!
+
+Check out my [LIVE PORTFOLIO](https://hannahcondada.github.io/hannah-condada-portfolio/#home)! I'd be happy to discuss ideas :))
 
 ---
 
@@ -64,12 +66,6 @@ I’ve explored a wide range of programming languages, tools, and frameworks, an
 - 🟢 [Visitor Pattern](https://github.com/HannahCondada/VisitorPattern.git)
 
 ➡️ **[Visit my Google Site for more details](https://sites.google.com/view/hannahcondada/home)**
-
----
-
-## 🌐 Socials
-
-🔗 **LinkedIn:** [Hannah Condada](https://www.linkedin.com/in/hannah-condada-906125258/)
 
 ---
 
