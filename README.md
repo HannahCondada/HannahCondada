@@ -1,6 +1,6 @@
 <div align="center">
 
-### HANNAH CONDADA 
+## HANNAH CONDADA 
 📍 Software & Data Enthusiast | Application Developer | Computer Science Graduate
 
 📧 **Email:** condadahannahl@gmail.com
