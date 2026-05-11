@@ -7,7 +7,7 @@
 
 🔗 **LinkedIn:** [Hannah Condada](https://www.linkedin.com/in/hannah-condada-906125258/)
 
-📓 **[LIVE PORTFOLIO]**(https://hannahcondada.github.io/hannah-condada-portfolio/#home)
+📓 [LIVE PORTFOLIO](https://hannahcondada.github.io/hannah-condada-portfolio/#home)
 
 
 
